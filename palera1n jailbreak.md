@@ -1,9 +1,13 @@
 # palera1n jailbreak
 
 palera1n is one of the current tools to jailbreak (selected) iPhones.
+
 The official website > [palera1n](https://github.com/palera1n/palera1n)
+
 The documents can be found > [ios.cfw.guide](https://ios.cfw.guide/)
+
 Specific information about setting up rootful jailbreak > [Rootful jailbreak](https://ios.cfw.guide/archived-palera1n-rootful/)
+
 
 [ Pre-requsites ]
 1. macOS on desktop or laptop
