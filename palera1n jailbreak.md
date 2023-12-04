@@ -18,9 +18,15 @@ Specific information about setting up rootful jailbreak > [Rootful jailbreak](ht
 
 [ Installing palera1n ]
 Finder > Applications > Utilities > Terminal
-
 `mkdir palera1n && cd palera1n`
-`sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"`
+
+Go to [palera1n releases](https://github.com/palera1n/palera1n/releases)
+and download the latest one named `palera1n-macos-universal`
+Move the file into the palera1n directory above.
+Now make the file executable
+`chmod +x palera1n-macos-universal`
+Then rename it to palera1n
+`mv palera1n-macos-universal palera1n`
 
 Now you're set.
 
