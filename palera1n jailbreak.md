@@ -1,6 +1,6 @@
 # palera1n jailbreak
 
-palera1n is one of the current tools to jailbreak (selected) iPhones.
+palera1n is one of the current tools used to jailbreak (selected) iPhones.
 
 The official website > [palera1n](https://github.com/palera1n/palera1n)
 
