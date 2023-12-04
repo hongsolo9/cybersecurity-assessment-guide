@@ -13,7 +13,9 @@ Specific information about setting up rootful jailbreak > [Rootful jailbreak](ht
 1. macOS on desktop or laptop
 2. python3 installed (either by macOS or homebrew)
 3. iPhone supported by palera1n
-4. Genuine USB -A to Lightning cable
+   a. Lesser than 64GB > Recommend rootless as you won't have space for the additional filesystem
+   b. 64GB or greater > Recommend rootful. You can rejailbreak from rootful to rootless with a simple reboot but not from rootless to rootful. You will need to remove rootless before installing as rootful.
+5. A genuine Apple USB-A to Lightning cable
 
 
 [ Installing palera1n ]
