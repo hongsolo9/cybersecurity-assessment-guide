@@ -11,21 +11,16 @@ Specific information about setting up rootful jailbreak > [Rootful jailbreak](ht
 
 [ Pre-requsites ]
 1. macOS on desktop or laptop
-2. homebrew installed
-3. python3 installed (either by macOS or homebrew)
-4. iPhone supported by palera1n
-5. . Genuine USB -A to Lightning cable
+2. python3 installed (either by macOS or homebrew)
+3. iPhone supported by palera1n
+4. . Genuine USB -A to Lightning cable
 
-[ homebrew setup ] 
-Refer to https://brew.sh for setup instructions
 
 [ Installing palera1n ]
 Finder > Applications > Utilities > Terminal
 
 `mkdir palera1n && cd palera1n`
-`python3 -m venv .`
-`source bin/activate`
-`pip install palera1n`
+`sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"`
 
 Now you're set.
 
