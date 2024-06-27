@@ -18,13 +18,15 @@ This is for iOS devices maxing out at 9.3.5/9.3.6
 3. Go to the iDevice > Settings > Device Management and select the project, followed by verifying the project.
 
 ## Load the Blizzard jailbreak ipa file
-1. To do so, you will need to sign the ipa file using your Apple developer account.
-2. Make sure you've got [iOS Signer v1.13.1](https://dantheman827.github.io/ios-app-signer/) installed on your mac.
-3. <To be continued>
+1. Download the Blizzard jailbreak ipa from [GeoSn0w github](https://github.com/GeoSn0w/Blizzard-Jailbreak-9/releases)
+2. To do so, you will need to sign the ipa file using your Apple developer account.
+3. Make sure you've got [iOS Signer v1.13.1](https://dantheman827.github.io/ios-app-signer/) installed on your mac.
+4. <To be continued>
 
 ## Apps to install
 Before installing any app, update Cydia repositories!
-Next,
+
+Next install,
 1. OpenSSH
 2. M Terminal
 
